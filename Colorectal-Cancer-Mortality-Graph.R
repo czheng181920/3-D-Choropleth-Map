@@ -61,3 +61,11 @@ basicPlot = ggplot() +
   labs(fill="Age-Adjusted \nRate") +
   scale_size(trans = "reverse")
 basicPlot
+
+
+############################################################
+
+#turn 2d into 3d
+
+library(rayshader)
+plot_gg(basicPlot, width = 4.3, height = 4)
