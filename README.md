@@ -13,4 +13,4 @@ filename_movie = tempfile()
 render_movie(filename = filename_movie, 
             frames = 130,  phi = 45, zoom = 0.8, theta = -90)
 ```
-Acknowledgements: Special thanks to Dr. Schumacher for mentoring me this summer on this project and thanks to Dr. Berger, Ms. Perovsek, and all those involved with the SEO/YES program. 
+Acknowledgements: Special thanks to Dr. Schumacher for mentoring me this summer on this project and thanks to Dr. Berger and all those involved with the SEO program. 
